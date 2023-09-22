@@ -4,6 +4,8 @@
 Awalnya saya mencari nama paket yang sekiranya mencurigakan, maka dari itu semua paket yang sekiranya memiliki nama mencurigakan saya coba satu-persatu. Ternyata beberapa paket aneh yang namanya sama. Namun ada satu paket yang berdiri sendiri yaitu GrabThePhiser, kemudian Sequence Number(raw) dan Aknowledgement Number(raw) ada di bagian kiri bawah, itu untuk menjawab poin a dan b. Kemudian untuk poin c dan d ada di paket yang berada di bawah paket GrabThePhiser. Kemudian akan muncul flag seperti di bawah.
 ![no 1](https://github.com/who170845/Jarkom-Modul-1-IT30-2023/assets/113872836/5a0dd28f-f331-41bb-8718-627696cebc18)
 
+
+
 # Soal No.2
 Untuk yang satu ini cukup gampang, tinggal klik kanan pada sembarang paket, kemudian klik Follow → http stream kemudian akan ditemukan Server bernama gunicorn seperti pada gambar di bawah.
 ![no 2ws](https://github.com/who170845/Jarkom-Modul-1-IT30-2023/assets/113872836/3c19876e-c54e-40ff-9697-5e7c52319d34)
